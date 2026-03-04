@@ -1,0 +1,13 @@
+=======Seção de Inicio=======
+Olá, Eu sou o Alysson
+
+Desenvolvedor Full-stack
+
+Eu desenvolvo e otimizo sites e aplicações trazendo minha bagagem comercial como um ponto estratégico no código. 
+
+=======Seção de Sobre=======
+Eu sou Alysson
+
+Desenvolvedor Full-stack Júnior em Rio do Sul
+
+Atuo como desenvolvedor full-stack com forte bagagem comercial e estratégica, criando soluções digitais que unem técnologia e performance de negócios. Desenvolvo aplicações modernas e escaláveis, sempre focado em conversão e experiência do usuário. Minha missão é transformar código em crescimento real, projetando interações que geram valor e resultados. Confira meu Portfólio.
